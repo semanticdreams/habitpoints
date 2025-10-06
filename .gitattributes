@@ -1,5 +1,5 @@
-linux/* linguist-vendored
-macos/* linguist-vendored
-web/* linguist-vendored
-windows/* linguist-vendored
-android/* linguist-vendored
+linux/* linguist-generated
+macos/* linguist-generated
+web/* linguist-generated
+windows/* linguist-generated
+android/* linguist-generated
